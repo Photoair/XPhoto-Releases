@@ -14,10 +14,12 @@
 
 | 版本 | 说明 | 下载 |
 |---|---|---|
-| **安装版**（推荐） | 自动创建开始菜单/桌面快捷方式，可选安装目录 | [XPhoto Setup 1.1.1.exe](https://github.com/Photoair/XPhoto-Releases/releases/download/v1.1.1/XPhoto%20Setup%201.1.1.exe) |
-| **便携版** | 免安装，双击即用，可放 U 盘 | [XPhoto-1.1.1-便携版.exe](https://github.com/Photoair/XPhoto-Releases/releases/download/v1.1.1/XPhoto-1.1.1-%E4%BE%BF%E6%90%BA%E7%89%88.exe) |
+| **安装版**（推荐） | 自动创建开始菜单/桌面快捷方式，可选安装目录 | [XPhoto-Setup-1.1.1.exe](https://github.com/Photoair/XPhoto-Releases/releases/download/v1.1.1/XPhoto-Setup-1.1.1.exe) |
+| **便携版** | 免安装，双击即用，可放 U 盘 | [XPhoto-1.1.1-Portable.exe](https://github.com/Photoair/XPhoto-Releases/releases/download/v1.1.1/XPhoto-1.1.1-Portable.exe) |
 
 体积约 113 MB / 个。系统要求：Windows 10 / 11（x64）。
+
+> 注：GitHub 附件名不支持中文，故便携版文件以 `Portable` 命名（即"便携版"）。
 
 > **首次使用 AI 功能需要联网**下载模型（约 112 MB），之后可离线使用。
 
